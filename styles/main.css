@@ -1,0 +1,43 @@
+
+
+div.card {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	width: 163px;
+	height: 96px ;
+
+	border-color: #3A3835;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 2px;
+
+	background-color: #181717;
+}
+
+div.card div.img-background {
+	background-color: #300300;
+	margin: 0px;
+	padding: 0px;
+
+	border-radius: 5px;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border-color: white;
+	border-radius: 5px;
+	border-style: solid;
+	border-width: 1px;
+}
+
+div.card img{
+	width: 153px;
+	height: 86px;
+	margin: 0px;
+
+	opacity: 25%;
+	mix-blend-mode: normal;
+}
